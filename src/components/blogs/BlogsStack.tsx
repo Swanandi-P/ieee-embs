@@ -21,7 +21,7 @@ interface Card {
     author: "Tejaswini Borreddi",
     desc: "Its the 21st century but how has disability and physical labour sector evolved? Introducing exoskeletons, the biomedical marvel re-inventing rehabilitation and manpower support. Dive into how biomedical exoskeletons are making waves of change in the work and health sector!",
     link: "https://medium.com/ieee-embsdiaries/into-the-engineering-marvel-that-may-end-wheelchairs-cbe006ec1107",
-    image: "/blog-images/blog1.webp",
+    image: "/embs-blog-images/blog1.png",
   },
   {
     id: "2.e-skin",
@@ -29,7 +29,7 @@ interface Card {
     author: "Swanandi Punse",
     desc: "As machines get smarter, so are biomedical implants! Learn how prosthetics are smarter with E-Skin, the secret sauce making prosthetics more human. Delve into how prosthetics are no longer just attachments but more like limbs!",
     link: "https://medium.com/ieee-embsdiaries/e-skin-the-future-of-intelligent-prosthetics-423ed70a2b1d",
-    image: "/blog-images/blog2.webp",
+    image: "/embs-blog-images/blog2.png",
   },
   {
     id: "3.neural-implants",
@@ -37,7 +37,7 @@ interface Card {
     author: "Krishna VP",
     desc: "Wondered how humans and machines are coming closer? Welcome to neural implants! Find out about how signal processing and closed loop systems are used for rehabilitation via neural implants!",
     link: "https://medium.com/ieee-embsdiaries/when-implants-listen-and-respond-signal-processing-at-the-core-of-closed-loop-neurotechnology-aa29145ebe28",
-    image: "/blog-images/blog3.webp",
+    image: "/embs-blog-images/blog3.png",
   },
   {
     id: "4.lifi-space",
@@ -45,7 +45,7 @@ interface Card {
     author: "Rachel Roshini",
     desc: "The future of communication is bright - literally. Dive into the blog titled 'Shining a Light on Optical Wireless Communication'.",
     link: "https://medium.com/ieee-embsdiaries/li-fi-to-space-links-the-era-of-optical-communication-b486fb763d63",
-    image: "/blog-images/blog4.webp",
+    image: "/embs-blog-images/blog4.png",
   },
   {
     id: "5.electromagnetic-configuration",
@@ -53,7 +53,7 @@ interface Card {
     author: "Aryabrata Pattnaik",
     desc: "Improvise, adapt, overcome. This is the ace up the sleeve for 6G communication technology. Behold Reconfigurable Intelligent Systems (RIS), the dynamic backbone that adapts to the needs of 6G networks on demand.",
     link: "https://medium.com/ieee-embsdiaries/electromagnetic-configuration-on-demand-the-role-of-reconfigurable-intelligent-surfaces-38187009440d",
-    image: "/blog-images/blog5.webp",
+    image: "/embs-blog-images/blog5.png",
   },
   {
     id: "6.beyond-speed",
@@ -61,7 +61,7 @@ interface Card {
     author: "Vaishnavi Murthy",
     desc: "Massive MIMO - the evolution of smart antenna systems.",
     link: "https://medium.com/ieee-embsdiaries/shaping-ultra-fast-futures-6g-powered-by-massive-mimo-f71bd119f6d5",
-    image: "/blog-images/blog6.webp",
+    image: "/embs-blog-images/blog6.png",
   },
   {
     id: "7.between-code-and-cell",
@@ -69,7 +69,7 @@ interface Card {
     author: "Salma Mehwish",
     desc: "The visionaries of the future who will take healthcare beyond imagination. This is the journey of biomedical engineering.",
     link: "https://medium.com/ieee-embsdiaries/between-code-and-cell-building-the-future-of-care-85a1e8d7b17a",
-    image: "/blog-images/blog7.webp",
+    image: "/embs-blog-images/blog7.png",
   },
   {
     id: "8.when-lab-ideas-became-life-savers",
@@ -77,7 +77,7 @@ interface Card {
     author: "Vani Goel",
     desc: "The engineers of today shaping breakthroughs.",
     link: "https://medium.com/ieee-embsdiaries/when-lab-ideas-became-life-savers-the-biomedical-game-changers-since-2000-fa19bbfc45f4",
-    image: "/blog-images/blog8.webp",
+    image: "/embs-blog-images/blog8.png",
   },
   {
     id: "9.pioneering-stories",
@@ -85,7 +85,7 @@ interface Card {
     author: "Deepika KrishnaKumar",
     desc: "Every medical miracle has a story. The pioneers of the past laid the foundation for the advances we benefit from today.",
     link: "https://medium.com/ieee-embsdiaries/the-pioneering-stories-behind-every-modern-medical-miracle-c5bf924e4831",
-    image: "/blog-images/blog9.webp",
+    image: "/embs-blog-images/blog9.png",
   },
   {
     id: "10.silent-heroes",
@@ -93,7 +93,7 @@ interface Card {
     author: "Ishita Mohanta",
     desc: "They don't wear capes, but they carry lives in their hands. Honoring the unsung heroes who keep our healthcare system alive - silently and selflessly.",
     link: "https://medium.com/ieee-embsdiaries/the-silent-heroes-of-healthcare-how-biosciences-power-medical-breakthroughs-229c370a4a13",
-    image: "/blog-images/blog10.webp",
+    image: "/embs-blog-images/blog10.png",
   },
   {
     id: "11.space-biotechnology",
@@ -101,7 +101,7 @@ interface Card {
     author: "Namanpreet Kaur",
     desc: "Could biotechnology break the bounds of evolution and give rise to life that can exist and thrive beyond Earth? Explore the fascinating world of space biotechnology.",
     link: "https://medium.com/ieee-embsdiaries/where-biology-meets-the-vacuum-engineering-life-beyond-earth-6bdd06a1d7a7",
-    image: "/blog-images/blog11.webp",
+    image: "/embs-blog-images/blog11.png",
   },
   {
     id: "12.breaking-down-dreams",
@@ -109,7 +109,7 @@ interface Card {
     author: "Anumita Sandeep",
     desc: "Dream engineering is merging science with the surreal. Through neural stimulation and feedback, we're learning to shape the dream world on demand.",
     link: "https://medium.com/ieee-embsdiaries/breaking-down-dreams-5ffd02544073",
-    image: "/blog-images/blog12.webp",
+    image: "/embs-blog-images/blog12.png",
   },
   {
     id: "13.genetic-autocorrect",
@@ -117,7 +117,7 @@ interface Card {
     author: "Aryabrata Pattnaik",
     desc: "Our cells were pioneers of autocorrect. Learn how they constantly detect and repair errors to keep life functioning smoothly.",
     link: "https://medium.com/ieee-embsdiaries/genetic-autocorrect-how-cells-proofread-752262efdad3",
-    image: "/blog-images/blog13.webp",
+    image: "/embs-blog-images/blog13.png",
   },
   {
     id: "14.beyond-double-helix",
@@ -125,7 +125,7 @@ interface Card {
     author: "Mitra",
     desc: "Science gave us the power to edit life itself - but with that power come difficult ethical questions about responsibility, privacy, and control.",
     link: "https://medium.com/ieee-embsdiaries/beyond-the-double-helix-the-ethics-of-genetic-data-2a692f7e3596",
-    image: "/blog-images/blog14.webp",
+    image: "/embs-blog-images/blog14.png",
   },
   {
     id: "15.invisible-to-the-eye",
@@ -133,7 +133,7 @@ interface Card {
     author: "Tvisha Jaikumar",
     desc: "What escapes the naked eye - subtle shifts and silent warnings - AI can now detect, transforming invisible patterns into life-saving insights.",
     link: "https://medium.com/ieee-embsdiaries/invisible-to-the-eye-but-predicted-by-ai-44591b047c9d",
-    image: "/blog-images/blog15.webp",
+    image: "/embs-blog-images/blog15.png",
   },
   {
     id: "16.decoding-human-health-ai",
@@ -141,7 +141,7 @@ interface Card {
     author: "Anumita Sandeep",
     desc: "The human body contains immense amounts of information. Discover how artificial intelligence helps organize, analyze, and understand it.",
     link: "https://medium.com/ieee-embsdiaries/decoding-human-health-with-ai-d83b169e5fb9",
-    image: "/blog-images/blog16.webp",
+    image: "/embs-blog-images/blog16.png",
   },
   {
     id: "17.nanobots",
@@ -149,7 +149,7 @@ interface Card {
     author: "Shivani Anandaraj",
     desc: "When machines shrink, powerful invisible engineers emerge. Explore the world-changing potential of nanobots.",
     link: "https://medium.com/ieee-embsdiaries/smallest-superheroes-nanobots-55e9edd252b7",
-    image: "/blog-images/blog17.webp",
+    image: "/embs-blog-images/blog17.png",
   },
   {
     id: "18.neurobots",
@@ -157,7 +157,7 @@ interface Card {
     author: "Varalika Mathur",
     desc: "Is it telekinesis or simply neurobots? Discover assistive technologies that connect human thought directly with robotic action.",
     link: "https://medium.com/ieee-embsdiaries/neurobots-from-thought-to-action-d52ec4634f62",
-    image: "/blog-images/blog18.webp",
+    image: "/embs-blog-images/blog18.png",
   },
   {
     id: "19.bots-or-rehabilitation",
@@ -165,7 +165,7 @@ interface Card {
     author: "Anumita Sandeep",
     desc: "The future is here - where robotic precision meets rehabilitation breakthroughs and AI-assisted surgery transforms recovery.",
     link: "https://medium.com/ieee-embsdiaries/bots-in-the-or-and-rehabilitation-d9e65c3ebfac",
-    image: "/blog-images/blog19.webp",
+    image: "/embs-blog-images/blog19.png",
   },
   {
     id: "20.cryonics-brain-concepts",
@@ -173,7 +173,7 @@ interface Card {
     author: "Riddhi Sharma and Aishwarya A N",
     desc: "What if consciousness doesn't end - it simply pauses? Explore the fusion of cryonics and isolated brain preservation.",
     link: "https://medium.com/ieee-embsdiaries/confluence-of-cryonics-and-isolated-brain-concept-3ccda4a6cc3a",
-    image: "/blog-images/blog20.webp",
+    image: "/embs-blog-images/blog20.png",
   },
   {
     id: "21.gene-modifications",
@@ -181,7 +181,7 @@ interface Card {
     author: "Vidhi Garg",
     desc: "The power to cure or the power to control? Explore the promises and risks of genetic modification.",
     link: "https://medium.com/ieee-embsdiaries/gene-modifications-changing-the-blueprint-of-life-one-gene-at-a-time-4cdb54de6374",
-    image: "/blog-images/blog21.webp",
+    image: "/embs-blog-images/blog21.png",
   },
   {
     id: "22.sickle-anemia",
@@ -189,7 +189,7 @@ interface Card {
     author: "Bhadra S N",
     desc: "One condition. Millions affected. A closer look at sickle cell anemia and its impact.",
     link: "https://medium.com/ieee-embsdiaries/a-review-on-sickle-cell-anemia-97bf911f9fb9",
-    image: "/blog-images/blog22.webp",
+    image: "/embs-blog-images/blog22.png",
   },
   {
     id: "23.lab-on-a-chip",
@@ -197,7 +197,7 @@ interface Card {
     author: "Nampreet Kaur",
     desc: "What if you could run an entire lab test on a device smaller than your phone? Lab-on-a-chip technology is making it possible.",
     link: "https://medium.com/ieee-embsdiaries/lab-on-a-chip-science-with-a-pocket-sized-update-1394867321b7",
-    image: "/blog-images/blog23.webp",
+    image: "/embs-blog-images/blog23.png",
   },
 ];
 
@@ -350,6 +350,7 @@ export default function AnimatedCardStack() {
     </div>
   )
 }
+
 
     </div>
   );
