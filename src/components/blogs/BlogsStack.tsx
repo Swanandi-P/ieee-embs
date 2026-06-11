@@ -193,7 +193,7 @@ interface Card {
     author: "Nampreet Kaur",
     desc: "What if you could run an entire lab test on a device smaller than your phone? Lab-on-a-chip technology is making it possible.",
     link: "https://medium.com/ieee-embsdiaries/lab-on-a-chip-science-with-a-pocket-sized-update-1394867321b7",
-    image: "/blog-images/blog23.webp",
+    image: "/embs-blog-images/blog23.png",
   },
 ];
 
